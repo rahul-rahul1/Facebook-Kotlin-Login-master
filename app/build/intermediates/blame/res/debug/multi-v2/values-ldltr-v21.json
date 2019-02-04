@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/signity/Documents/ExtraCodeFunctionalities/Facebook-Kotlin-Login-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/signity/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/7a8661ae4bb94899020ad5c6b284f6c4/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/dnyaneshwar/facebook_login_test/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/dnyaneshwar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/41a0db6b24e0e969e4b9a2fe23ea1d3e/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
